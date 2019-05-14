@@ -4,7 +4,22 @@
       {
         "name": "Mission Chinese Food",
         "neighborhood": "Manhattan",
-        "photograph": "1",
+        "photograph": "1_small_1x.jpg",
+        "photographDescription": "Dinner in Mission Chinese Food restaurant",
+        "sources": [
+          {
+            "media": "(max-width: 400px)",
+            "srcset": "img/1_small_1x.jpg 1x, img/1_small_2x.jpg 2x"
+          },
+          {
+            "media": "(max-width: 700px)",
+            "srcset": "img/1_medium_1x.jpg 1x, img/1_medium_2x.jpg 2x"
+          },
+          {
+            "media": "(min-width: 701px)",
+            "srcset": "img/1_normal_1x.jpg 1x, img/1_normal_2x.jpg 2x"
+          }
+        ],
         "address": "171 E Broadway, New York, NY 10002",
         "latlng": {
           "lat": 40.713829,
@@ -28,7 +43,14 @@
       {
         "name": "Emily",
         "neighborhood": "Brooklyn",
-        "photograph": "2",
+        "photograph": "2_normal_1x.jpg",
+        "photographDescription": "Emily's famous Margarita pizza",
+        "sources": [
+          {
+            "media": "",
+            "srcset": "img/2_normal_1x.jpg 1x, img/2_normal_2x.jpg 2x"
+          }
+        ],
         "address": "919 Fulton St, Brooklyn, NY 11238",
         "latlng": {
           "lat": 40.683555,
@@ -52,7 +74,22 @@
       {
         "name": "Kang Ho Dong Baekjeong",
         "neighborhood": "Manhattan",
-        "photograph": "3",
+        "photograph": "3_small_1x.jpg",
+        "photographDescription": "Kang Ho Dong Baekjeong's dining room",
+        "sources": [
+          {
+            "media": "(max-width: 400px)",
+            "srcset": "img/3_small_1x.jpg 1x, img/3_small_2x.jpg 2x"
+          },
+          {
+            "media": "(max-width: 700px)",
+            "srcset": "img/3_medium_1x.jpg 1x, img/3_medium_2x.jpg 2x"
+          },
+          {
+            "media": "(min-width: 701px)",
+            "srcset": "img/3_normal_1x.jpg 1x, img/3_normal_2x.jpg 2x"
+          }
+        ],
         "address": "1 E 32nd St, New York, NY 10016",
         "latlng": {
           "lat": 40.747143,
@@ -75,7 +112,22 @@
       {
         "name": "Katz's Delicatessen",
         "neighborhood": "Manhattan",
-        "photograph": "4",
+        "photograph": "4_small_1x.jpg",
+        "photographDescription": "Katz's Delicatessen's Front",
+        "sources": [
+          {
+            "media": "(max-width: 400px)",
+            "srcset": "img/4_small_1x.jpg 1x, img/4_small_2x.jpg 2x"
+          },
+          {
+            "media": "(max-width: 700px)",
+            "srcset": "img/4_medium_1x.jpg 1x, img/4_medium_2x.jpg 2x"
+          },
+          {
+            "media": "(min-width: 701px)",
+            "srcset": "img/4_normal_1x.jpg 1x, img/4_normal_2x.jpg 2x"
+          }
+        ],
         "address": "205 E Houston St, New York, NY 10002",
         "latlng": {
           "lat": 40.722216,
@@ -99,7 +151,22 @@
       {
         "name": "Roberta's Pizza",
         "neighborhood": "Brooklyn",
-        "photograph": "5",
+        "photograph": "5_small_1x.jpg",
+        "photographDescription": "Lunch in Roberta's Pizza",
+        "sources": [
+          {
+            "media": "(max-width: 400px)",
+            "srcset": "img/5_small_1x.jpg 1x, img/5_small_2x.jpg 2x"
+          },
+          {
+            "media": "(max-width: 700px)",
+            "srcset": "img/5_medium_1x.jpg 1x, img/5_medium_2x.jpg 2x"
+          },
+          {
+            "media": "(min-width: 701px)",
+            "srcset": "img/5_normal_1x.jpg 1x, img/5_normal_2x.jpg 2x"
+          }
+        ],
         "address": "261 Moore St, Brooklyn, NY 11206",
         "latlng": {
           "lat": 40.705089,
@@ -123,7 +190,22 @@
       {
         "name": "Hometown BBQ",
         "neighborhood": "Brooklyn",
-        "photograph": "6",
+        "photograph": "6_small_1x.jpg",
+        "photographDescription": "Hometown BBQ's interior",
+        "sources": [
+          {
+            "media": "(max-width: 400px)",
+            "srcset": "img/6_small_1x.jpg 1x, img/6_small_2x.jpg 2x"
+          },
+          {
+            "media": "(max-width: 700px)",
+            "srcset": "img/6_medium_1x.jpg 1x, img/6_medium_2x.jpg 2x"
+          },
+          {
+            "media": "(min-width: 701px)",
+            "srcset": "img/6_normal_1x.jpg 1x, img/6_normal_2x.jpg 2x"
+          }
+        ],
         "address": "454 Van Brunt St, Brooklyn, NY 11231",
         "latlng": {
           "lat": 40.674925,
@@ -147,7 +229,22 @@
       {
         "name": "Superiority Burger",
         "neighborhood": "Manhattan",
-        "photograph": "7",
+        "photograph": "7_small_1x.jpg",
+        "photographDescription": "Superiority Burger's front",
+        "sources": [
+          {
+            "media": "(max-width: 400px)",
+            "srcset": "img/7_small_1x.jpg 1x, img/7_small_2x.jpg 2x"
+          },
+          {
+            "media": "(max-width: 700px)",
+            "srcset": "img/7_medium_1x.jpg 1x, img/7_medium_2x.jpg 2x"
+          },
+          {
+            "media": "(min-width: 701px)",
+            "srcset": "img/7_normal_1x.jpg 1x, img/7_normal_2x.jpg 2x"
+          }
+        ],
         "address": "430 E 9th St, New York, NY 10009",
         "latlng": {
           "lat": 40.727397,
@@ -171,7 +268,18 @@
       {
         "name": "The Dutch",
         "neighborhood": "Manhattan",
-        "photograph": "8",
+        "photograph": "8_medium_1x.jpg",
+        "photographDescription": "The Dutch's sign",
+        "sources": [
+          {
+            "media": "(max-width: 700px)",
+            "srcset": "img/8_medium_1x.jpg 1x, img/8_medium_2x.jpg 2x"
+          },
+          {
+            "media": "(min-width: 701px)",
+            "srcset": "img/8_normal_1x.jpg 1x, img/8_normal_2x.jpg 2x"
+          }
+        ],
         "address": "131 Sullivan St, New York, NY 10012",
         "latlng": {
           "lat": 40.726584,
@@ -195,7 +303,18 @@
       {
         "name": "Mu Ramen",
         "neighborhood": "Queens",
-        "photograph": "9",
+        "photograph": "9_medium_1x.jpg",
+        "photographDescription": "People enjoying their meal at Mu Ramen restaurant",
+        "sources": [
+          {
+            "media": "(max-width: 700px)",
+            "srcset": "img/9_medium_1x.jpg 1x, img/9_medium_2x.jpg 2x"
+          },
+          {
+            "media": "(min-width: 701px)",
+            "srcset": "img/9_normal_1x.jpg 1x, img/9_normal_2x.jpg 2x"
+          }
+        ],
         "address": "1209 Jackson Ave, Queens, NY 11101",
         "latlng": {
           "lat": 40.743797,
@@ -219,6 +338,22 @@
       {
         "name": "Casa Enrique",
         "neighborhood": "Queens",
+        "photograph": "10_small_1x.jpg",
+        "photographDescription": "Casa Enrique's dining room",
+        "sources": [
+          {
+            "media": "(max-width: 400px)",
+            "srcset": "img/10_small_1x.jpg 1x, img/10_small_2x.jpg 2x"
+          },
+          {
+            "media": "(max-width: 700px)",
+            "srcset": "img/10_medium_1x.jpg 1x, img/10_medium_2x.jpg 2x"
+          },
+          {
+            "media": "(min-width: 701px)",
+            "srcset": "img/10_normal_1x.jpg 1x, img/10_normal_2x.jpg 2x"
+          }
+        ],
         "address": "5-48 49th Ave, Queens, NY 11101",
         "latlng": {
           "lat": 40.743394,
