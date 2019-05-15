@@ -1,13 +1,4 @@
 # Local Development API Server
-## Usage
-#### Get Restaurants
-```
-curl "http://localhost:1337/restaurants"
-```
-#### Get Restaurants by id
-````
-curl "http://localhost:1337/restaurants/{3}"
-````
 
 ## Architecture
 Local server
@@ -48,6 +39,15 @@ debug: Environment : development
 debug: Port        : 1337
 
 
+## Usage
+#### Get Restaurants
+```
+curl "http://localhost:1337/restaurants"
+```
+#### Get Restaurants by id
+````
+curl "http://localhost:1337/restaurants/{3}"
+````
 ## Endpoints
 
 ### GET Endpoints
